@@ -3,7 +3,6 @@ import axios from 'axios'
 
 import App from './App'
 import router from './router'
-import store from './store'
 import VueElectron from 'vue-electron'
 
 import { 
@@ -33,6 +32,5 @@ Vue.config.productionTip = false
 new Vue({
   components: { App },
   router,
-  store,
   template: '<App/>'
 }).$mount('#app')
