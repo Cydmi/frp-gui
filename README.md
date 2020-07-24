@@ -16,7 +16,7 @@ npm run dev
 npm run build
 ```
 # 环境搭建
-1. 下载[frp](https://github.com/fatedier/frp/releases/tag/v0.20.0)对应的版本。目前我采用的是v0.20.0,需要自行构建的只要替换frp 文件夹中的二进制包即可。本地frpc 和 服务端版本要一直。
+1. 下载[frp](https://github.com/fatedier/frp/releases/tag/v0.20.0)对应的版本。目前我采用的是v0.20.0,需要自行构建的只要替换frp 文件夹中的二进制包即可。本地frpc 和 服务端版本要一致。
 2. 服务端frps配置
 
 ```
